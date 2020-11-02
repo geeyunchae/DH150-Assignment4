@@ -2,7 +2,6 @@
 ##### by GeeYun Chae 
 
 #### Introductory Steps
-
 ### Step 1: Specify the main design challenge
 #### What is the main activity your project would support the users' needs?
 #### This project will support users in their search of food recipes. This project will provide me a better understanding of user's expectation toward the food recipe service. Providing a better way to find relevant and easier food recipe will allow many to gain interest in cooking during this unpleasant time, when restaurant dining is prohibited or limited. This can lead many people to build up their new hobby, "cooking".
