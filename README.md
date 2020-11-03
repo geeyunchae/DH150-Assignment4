@@ -16,13 +16,13 @@
 
 ### Step 2: Target Users
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
-> ##### Demographics: middle-aged women, mostly working mom, familiar with cooking, may not be a tech-saavy,live in the United States
-> ##### Preference: Users are very familiar with cooking, looking for new and healthy recipes. 
-> ##### Expertise: Do not need any level of expertise to use this app.
+> #### Demographics: middle-aged women, mostly working mom, familiar with cooking, may not be a tech-saavy,live in the United States
+> #### Preference: Users are very familiar with cooking, looking for new and healthy recipes. 
+> #### Expertise: Do not need any level of expertise to use this app.
 #### Where would the users do that activity?
-> ##### Users would use this app anywhere. It will allow the users to find the relevant food recipes that they are looking for. Also, it will list nearest grocery stores that currently have the ingredients. The users can pick out the desired recipe on their way to home, a day before, or at home because the items will be easy delivered to their home. There would be two options which will allow the user to pick up their ingredients from the nearest grocery market, or have them delivered to their doors. 
+> #### Users would use this app anywhere. It will allow the users to find the relevant food recipes that they are looking for. Also, it will list nearest grocery stores that currently have the ingredients. The users can pick out the desired recipe on their way to home, a day before, or at home because the items will be easy delivered to their home. There would be two options which will allow the user to pick up their ingredients from the nearest grocery market, or have them delivered to their doors. 
 #### What would the users do to complete that activity?
-> ##### Users will search for a recipe that they are willing to cook. If they are missing some or all ingredients, they will pick another menu or are likely to go to the grocery store to shop their missing ingredients. 
+> #### Users will search for a recipe that they are willing to cook. If they are missing some or all ingredients, they will pick another menu or are likely to go to the grocery store to shop their missing ingredients. 
 #
 
 ### Step 3: Pick Research Methods
