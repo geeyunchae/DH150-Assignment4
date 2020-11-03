@@ -1,7 +1,6 @@
 # DH150-Assignment4: Contextual Inquiry
 ##### by GeeYun Chae 
 
-
 # Introductory Steps
 ## Step 1: Specify the main design challenge
 ### What is the main activity your project would support the users' needs?
