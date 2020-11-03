@@ -5,9 +5,9 @@
 # Introductory Steps
 ### Step 1: Specify the main design challenge
 #### **What is the main activity your project would support the users' needs?**
-##### > This project will support users in their search of food recipes. This project will provide me a better understanding of user's expectation toward the food recipe service. Providing a better way to find relevant and easier food recipe will allow many to gain interest in cooking during this unpleasant time, when restaurant dining is prohibited or limited. This can lead many people to build up their new hobby, "cooking".
+> ##### This project will support users in their search of food recipes. This project will provide me a better understanding of user's expectation toward the food recipe service. Providing a better way to find relevant and easier food recipe will allow many to gain interest in cooking during this unpleasant time, when restaurant dining is prohibited or limited. This can lead many people to build up their new hobby, "cooking".
 #### **What is the basic need involved for that activity?**
-##### > this activity fulfills the users' basic need for safety. The easy to follow directions and the careful nutrition measurement will support the users' health with a balanced diet. Going to restaurants to eat can cause insecurity during this pandemic. Therefore, it will be more safe and relieved to cook the food from home with easy-to-follow recipes. 
+> ##### this activity fulfills the users' basic need for safety. The easy to follow directions and the careful nutrition measurement will support the users' health with a balanced diet. Going to restaurants to eat can cause insecurity during this pandemic. Therefore, it will be more safe and relieved to cook the food from home with easy-to-follow recipes. 
 #### **What is(are) the traditional/current solutions(s) to satisfy the needs?**
 ##### > Current solutions satisfy these needs in other "cooking recipe apps/ websites", however, my demographics of "middle-aged women". Most of the websites/ apps were somewhat difficult to use or did not follow the "consistency and stardard" format. Although most middle-aged women were not familiar with the hidden functions, it seemed very tricky or difficult to use the app/web.
 #### **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
