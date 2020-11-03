@@ -13,7 +13,7 @@
 > #### Many of the apps/web does not support direction that allows the users to fully utilize the app, unless they look for support page. Adding an introductory guide function when an user first launches the app will be very helpful to find the precise function that they are seeking. Simple and organized categorical design should be carefully examined to utilize the full potential of the app. Also, the format should definitely be alinged with the standard (consistency and standard in heuristic evaluation). The app should not be just overwhelmed with whole chunk of information, but should be well-organized and listed throughout the usage. 
 #
 
-### Step 2: Target Users
+## Step 2: Target Users
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
 > #### Demographics: middle-aged women, mostly working mom, familiar with cooking, may not be a tech-saavy,live in the United States
 > #### Preference: Users are very familiar with cooking, looking for new and healthy recipes. 
@@ -24,13 +24,13 @@
 > #### Users will search for a recipe that they are willing to cook. If they are missing some or all ingredients, they will pick another menu or are likely to go to the grocery store to shop their missing ingredients. 
 #
 
-### Step 3: Pick Research Methods
+## Step 3: Pick Research Methods
 ### I chose to conduct an ethnographic research and quick-survey for the research methods.
 > #### Ethnographic research was conducted in Trader Joe's in Los Angeles ( 263 South La Brea Ave, Los Angeles, CA 90036). 
 > #### The line was formed and the number of people entering the store was managed by the staff. They checked and made sure eveyone was wearing a mask and offered hand sanitizer on their entering. I observed people in the market during their shop. Everyone seemed to have their masks on, or their entrance was prohibited in the venue. I saw a lot of people wearing masks, gloves, sunglasses, or even face shields. People seemed to avoid the crowded areas or waited far from the shopper to get a product. The line was comparably longer to maintain social distancing. The cashiers were constantly sanitizing the POS and credit card readers during every encounter. After people came out from the grocety store, a number of people were sanitizing their hands from the sanitizing stations. 
 #
 
-### Step 4: Plan to get into the context & Write down the observation
+## Step 4: Plan to get into the context & Write down the observation
 #### Decide where to visit:
 > #### Trader Joes in Los Angeles (263 South La Brea Ave, Los Angeles, CA 90036).
 #### Decide what activities to observe: 
@@ -39,11 +39,11 @@
 > #### I collected the user date with pen-paper notes; quick survey.
 # 
 
-### Step 5: Conduct the research:
+## Step 5: Conduct the research:
 ### Visited the place: Trader joe's. (waited in the line and went in the store and observed)
 > #### I observed the shoppers in the store (mostly middle-aged womens) and asked them for their participation for a quick-survey.
 > #### I've collected the data through answered_survey and the notes that I've taken during my observation.
 > #### link to the survey: https://docs.google.com/document/d/1lC-oQlxWPDIASJZbK6y3iOQLFuDFShaplH59tNFj7wo/edit?usp=sharing
 
-### Step 6: Reflection
+## Step 6: Reflection
 > #### I found this contectual inquiry very interesting helpful. It gave me chance to realize what seems to be needed for better design structure of the program. I was very thankful that number of people actually allowed their time to participate in the survey that I've requested. It gave me more confidence of the subject when I was able to collect the ideas of participants. The concept of the app was not informed, so I will be add the feedbacks and answers to development of the app. It was a face-pace enviornment, so I was not able to gather as much of information and had to design the survey very short. It would have been more helpful if I had time to ask for more in-dept questions. I will use this survey as a reference to build up on my hypothesis of the app design. However, I was able to learn that the pandemic had its impact on people's cooking. They seem to go to grocery stores at least once every week and seemed to spend more time on cooking. It was clear that safety regulations did cause pain to the people, not being able to easily dine in and rather having to cook. People often seemed not to fully trust the online grocery shopping method or was not really familiar with the system. They all used and preferred online or web cooking recipes more than cook books. 
