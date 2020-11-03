@@ -44,7 +44,7 @@
 ### Visited the place: Trader joe's. (waited in the line and went in the store and observed)
 > #### I observed the shoppers in the store (mostly middle-aged womens) and asked them for their participation for a quick-survey.
 > #### I've collected the data through answered_survey and the notes that I've taken during my observation.
-> #### link to the survey: https://docs.google.com/document/d/1lC-oQlxWPDIASJZbK6y3iOQLFuDFShaplH59tNFj7wo/edit?usp=sharing(docs/CONTRIBUTING.md)
+> #### link to the survey: https://docs.google.com/document/d/1lC-oQlxWPDIASJZbK6y3iOQLFuDFShaplH59tNFj7wo/edit?usp=sharing
 
 ### Step 6: Reflection
 > #### I found this contectual inquiry very interesting helpful. It gave me chance to realize what seems to be needed for better design structure of the program. I was very thankful that number of people actually allowed their time to participate in the survey that I've requested. It gave me more confidence of the subject when I was able to collect the ideas of participants. The concept of the app was not informed, so I will be add the feedbacks and answers to development of the app. It was a face-pace enviornment, so I was not able to gather as much of information and had to design the survey very short. It would have been more helpful if I had time to ask for more in-dept questions. I will use this survey as a reference to build up on my hypothesis of the app design.
