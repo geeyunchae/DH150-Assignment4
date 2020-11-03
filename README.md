@@ -4,13 +4,13 @@
 
 # Introductory Steps
 ### Step 1: Specify the main design challenge
-#### **What is the main activity your project would support the users' needs?**
+#### What is the main activity your project would support the users' needs?
 > ##### This project will support users in their search of food recipes. This project will provide me a better understanding of user's expectation toward the food recipe service. Providing a better way to find relevant and easier food recipe will allow many to gain interest in cooking during this unpleasant time, when restaurant dining is prohibited or limited. This can lead many people to build up their new hobby, "cooking".
-#### **What is the basic need involved for that activity?**
+#### What is the basic need involved for that activity?
 > ##### this activity fulfills the users' basic need for safety. The easy to follow directions and the careful nutrition measurement will support the users' health with a balanced diet. Going to restaurants to eat can cause insecurity during this pandemic. Therefore, it will be more safe and relieved to cook the food from home with easy-to-follow recipes. 
-#### **What is(are) the traditional/current solutions(s) to satisfy the needs?**
+#### What is(are) the traditional/current solutions(s) to satisfy the needs?
 > ##### Current solutions satisfy these needs in other "cooking recipe apps/ websites", however, my demographics of "middle-aged women". Most of the websites/ apps were somewhat difficult to use or did not follow the "consistency and stardard" format. Although most middle-aged women were not familiar with the hidden functions, it seemed very tricky or difficult to use the app/web.
-#### **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
+#### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 > ##### Many of the apps/web does not support direction that allows the users to fully utilize the app, unless they look for support page. Adding an introductory guide function when an user first launches the app will be very helpful to find the precise function that they are seeking. Also, the format should definitely be alinged with the standard (consistency and standard in heuristic evaluation).
 #
 
@@ -32,16 +32,16 @@
 #
 
 ### Step 4: Plan to get into the context & Write down the observation
-##### **Decide where to visit**:
+##### Decide where to visit:
 > ##### Trader Joes in Los Angeles (263 South La Brea Ave, Los Angeles, CA 90036).
-##### **Decide what activities to observe** : 
+##### Decide what activities to observe: 
 > ##### I decided to observe the shopping process of the people. How the pandemic seem to delay the shopping process and what rules that people had to follow. 
 > ##### I mostly observed middle aged women in the store and how shopping during pandemic can cause delay and difficulty.
 > ##### I collected the user date with pen-paper notes; quick survey.
 # 
 
 ### Step 5: Conduct the research:
-#### **Visited the place**: Trader joe's. (waited in the line and went in the store and observed)
+#### Visited the place: Trader joe's. (waited in the line and went in the store and observed)
 > ##### I observed the shoppers in the store (mostly middle-aged womens) and asked them for their participation for a quick-survey.
 > ##### I've collected the data through answered_survey and the notes that I've taken during my observation.
 #
